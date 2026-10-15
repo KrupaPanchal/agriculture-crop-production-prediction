@@ -1,5 +1,5 @@
 
-# Agriculture Crop Production Prediction
+# Agriculture Production Index Prediction
 
 ## About
 This project explores agricultural crop data using Python,
